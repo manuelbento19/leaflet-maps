@@ -1,0 +1,23 @@
+
+:root{
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  color: #696969;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+
+  
+}
+body {
+  height: 100vh;
+}
+#root {
+  height: 100%;
+  width: 100%;
+  padding: 2rem;
+}
